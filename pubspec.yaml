@@ -31,6 +31,9 @@ dependencies:
   auto_size_text: 2.1.0
   flutter_tts: ^3.2.1
   tcard: ^1.3.3
+
+
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
